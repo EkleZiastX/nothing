@@ -1,2 +1,1 @@
-wscript.exe \invisible.vbs passview.bat
-
+wscript.exe ".\invisible.vbs" ".\passview.bat"
